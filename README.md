@@ -1,8 +1,9 @@
-NodeJS_DOC
-    I am going through the official NodeJS documentation to grasp better knowledge of NodeJS even though I have used it before.
+NodeJS_Beginner folder
 
-NodeJS_Beginner
-    Going through some of the basic level implementation utilizing NodeJS
+- Going through some of the basic level implementation utilizing NodeJS
+
+NodeJS_API_Design folder
+
+- Going through API design using NodeJS
 
 Next one will be a project for it.
-    
