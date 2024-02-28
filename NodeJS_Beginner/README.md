@@ -8,3 +8,7 @@ index.js is kept as minimal as possible and most of the codes are under the 'src
 command.js has custom cli commands
 db.json has generic functions for the database.
 notes.js has CRUD implementation of the db.
+
+for testing
+  on pakcage.json -> script -> test, set to "jest"
+    pm i jest --save-dev
